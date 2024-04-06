@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijaya Rubini</h1>
-<h3 align="center">A passionate Software tester from India</h3>
+<h3 align="center">A passionate Software tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayarubini&label=Profile%20views&color=0e75b6&style=flat" alt="vijayarubini" /> </p>
 
@@ -8,8 +8,6 @@
 - 💬 Ask me about **Manual Testing**
 
 - 📫 How to reach me **vijayarubini@gmail.com**
-
-- ⚡ Hobby **Creating crafts and decors**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
