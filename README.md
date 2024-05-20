@@ -3,11 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayarubini&label=Profile%20views&color=0e75b6&style=flat" alt="vijayarubini" /> </p>
 
-- 🌱 I’m currently learning **Automation Testing**
+🔭 I’m currently working on Manual Testing.
 
-- 💬 Ask me about **Manual Testing**
+🌱 I’m currently learning API Testing, Selenium.
 
-- 📫 How to reach me **vijayarubini@gmail.com**
+👯 I’m looking to collaborate on API Testing, Selenium, Automation Frameworks
+
+👨‍💻 All of my projects are available at https://github.com/VijayaRubini
+
+💬 Ask me about Selenium, JAVA, Javascript
+
+📫 How to reach me vijayarubini@gmail.com
+
+📄 Know about my experiences www.linkedin.com/in/vijaya-rubini-a-b37564a3
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
