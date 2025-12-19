@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vijaya Rubini</h1>
-<h3 align="center">A passionate Software tester</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayarubini&label=Profile%20views&color=0e75b6&style=flat" alt="vijayarubini" /> </p>
 
-🔭 I’m currently working on Manual Testing.
+🔭 I’m currently working on Java.
 
 🌱 I’m currently learning API Testing, Selenium.
 
-👯 I’m looking to collaborate on API Testing, Selenium, Automation Frameworks
+👯 I’m looking to collaborate on Java Springboots and Automation Frameworks
 
 👨‍💻 All of my projects are available at https://github.com/VijayaRubini
 
-💬 Ask me about Selenium, JAVA, Javascript
+💬 Ask me about Selenium, JAVA
 
 📫 How to reach me vijayarubini@gmail.com
 
