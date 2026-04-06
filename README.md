@@ -5,13 +5,11 @@
 
 🔭 I’m currently working on Java.
 
-🌱 I’m currently learning API Testing, Selenium.
-
-👯 I’m looking to collaborate on Java Springboots and Automation Frameworks
+👯 I’m looking to collaborate on Java Springboots.
 
 👨‍💻 All of my projects are available at https://github.com/VijayaRubini
 
-💬 Ask me about Selenium, JAVA
+💬 Ask me about JAVA and springboot.
 
 📫 How to reach me vijayarubini@gmail.com
 
