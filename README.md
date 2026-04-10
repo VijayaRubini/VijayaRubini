@@ -1,19 +1,70 @@
 <h1 align="center">Hi 👋, I'm Vijaya Rubini</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">💼 QA Engineer | ☕ Java Spring Boot Developer | 🔍 API Testing Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayarubini&label=Profile%20views&color=0e75b6&style=flat" alt="vijayarubini" /> </p>
+🚀 About Me
 
-🔭 I’m currently working on Java.
+Detail-oriented professional with 4+ years of experience in Quality Assurance and a strong foundation in Java backend development using Spring Boot.
 
-👯 I’m looking to collaborate on Java Springboots.
+After a planned career break, I actively upskilled in:
 
-👨‍💻 All of my projects are available at https://github.com/VijayaRubini
+Java & Spring Boot
+REST API development
+Automation & API Testing
 
-💬 Ask me about JAVA and springboot.
+I bring a unique combination of QA expertise and development skills, enabling me to build and test high-quality applications.
 
-📫 How to reach me vijayarubini@gmail.com
+🛠️ Technical Skills
 
-📄 Know about my experiences www.linkedin.com/in/vijaya-rubini-a-b37564a3
+Languages: Java
+Frameworks: Spring Boot
+Testing Tools: Selenium WebDriver, Postman
+Database: MySQL
+Tools: Git, GitHub, IntelliJ IDEA, MySQL Workbench
+Concepts: REST APIs, DTO, Exception Handling, CRUD, Agile
+
+📂 Projects
+🎓 College Management System
+
+🔗 (Add your GitHub repo link here)
+
+Developed REST APIs to manage Students, Staff, Departments, and Salary
+Implemented layered architecture (Controller, Service, Repository)
+Used DTO pattern and global exception handling
+Integrated MySQL database with JPA/Hibernate
+Tested APIs using Postman
+
+🛒 Order Management System (In Progress)
+
+🔗 (Add your repo link once done)
+
+Building a backend system for managing users, products, and orders
+Implementing CRUD operations and REST APIs
+Applying entity relationships and database integration
+Focused on scalable and clean architecture
+
+🧪 QA & Testing Experience
+Designed and executed 400+ test cases
+Performed functional, regression, and API testing
+Automated test cases using Selenium WebDriver
+Validated APIs using Postman
+Logged and tracked defects using Jira & Bugzilla
+
+📘 Learning & Growth
+Practicing real-world backend development using Spring Boot
+Strengthening problem-solving and debugging skills
+Exploring API testing and automation integration
+
+📜 Certifications
+API Testing with Postman – LinkedIn Learning
+Agile & Scrum Fundamentals – LinkedIn Learning
+Git Basics – GitHub
+
+🤝 Let's Connect
+📧 Email: vijayarubini@gmail.com
+🔗 LinkedIn:www.linkedin.com/in/vijaya-rubini-a-b37564a3
+
+⭐ Open to QA and Java Backend opportunities
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
