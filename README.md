@@ -26,7 +26,7 @@ Concepts: REST APIs, DTO, Exception Handling, CRUD, Agile
 📂 Projects
 🎓 College Management System
 
-🔗 (Add your GitHub repo link here)
+🔗 (https://github.com/VijayaRubini/college)
 
 Developed REST APIs to manage Students, Staff, Departments, and Salary
 Implemented layered architecture (Controller, Service, Repository)
@@ -36,7 +36,7 @@ Tested APIs using Postman
 
 🛒 Order Management System (In Progress)
 
-🔗 (Add your repo link once done)
+🔗 (https://github.com/VijayaRubini/Online-order-management-system)
 
 Building a backend system for managing users, products, and orders
 Implementing CRUD operations and REST APIs
